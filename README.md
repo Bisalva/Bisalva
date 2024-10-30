@@ -11,9 +11,7 @@
 - 📚 I'm Still Learning
 - 🐱 Enjoying the process
   
-<h2 align = "center">
-Contact
-</h2> 
+<h2 align = "center">Contact</h2> 
 
 - ✉️ bisalva99@gmail.com
 
