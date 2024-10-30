@@ -15,6 +15,12 @@
 
 - ✉️ bisalva99@gmail.com
 
+<br><br>
+
+
+<p align = "right">
+  ~ “Lose until you win.”
+</p>
 
 <!---
 Bisalva/Bisalva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
