@@ -12,7 +12,7 @@
 - 🐱 Enjoying the process
   
 <h2 align = "center">
-    Contact
+Contact
 </h2> 
 
 - ✉️ bisalva99@gmail.com
