@@ -15,9 +15,7 @@
 
 - ✉️ bisalva99@gmail.com
 
-<br><br>
-
-
+<br>
 <p align = "right">
   ~ “Lose until you win.”
 </p>
