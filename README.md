@@ -4,7 +4,7 @@
   </h1> 
   
 <div>
-  <img src = "https://art.pixilart.com/b25ec9eb49f290a.png" alt = "Bulbasaur" width = "100" align = "left">
+  <img src = "https://art.pixilart.com/b25ec9eb49f290a.png" alt = "Bulbasaur" width = "70" align = "left">
 </div>
 
 - 🖥️ Computer Engineering Student (UMAG)
