@@ -8,8 +8,7 @@
 </div>
 
 - 🖥️ Computer Engineering Student (UMAG)
-- 📚 I'm Still Learning
-- 🐱 Enjoying the process
+- 📚 I'm learning
   
 <h1 align = "center">Contact</h2> 
 
