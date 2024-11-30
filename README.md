@@ -4,7 +4,7 @@
   </h1> 
   
 <div>
-  <img src = "https://art.pixilart.com/b25ec9eb49f290a.png" alt = "Bulbasaur" width = "70" align = "left">
+  <img src = "https://art.pixilart.com/b25ec9eb49f290a.png" alt = "Bulbasaur" width = "60" align = "left">
 </div>
 
 - 🖥️ Computer Engineering Student (UMAG)
@@ -12,12 +12,12 @@
   
 <h1 align = "center">Contact</h2> 
 
-- ✉️ bisalva99@gmail.com
+<div align ="center" >
+✉️ <a href="mailto:bisalva99@gmail.com?subject=Contacto&body=">bisalva99@gmail.com</a>
+</div>
 
 <br>
-<p align = "right">
-  ~ “Lose until you win.”
-</p>
+
 
 <!---
 Bisalva/Bisalva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
