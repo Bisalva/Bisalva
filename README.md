@@ -16,7 +16,6 @@
 ✉️ <a href="mailto:bisalva99@gmail.com?subject=Contacto&body=">bisalva99@gmail.com</a>
 </div>
 
-<br>
 
 
 <!---
