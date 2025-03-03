@@ -7,7 +7,7 @@
   <img src = "https://art.pixilart.com/b25ec9eb49f290a.png" alt = "Bulbasaur" width = "60" align = "left">
 </div>
 
-- 🖥️ Computer Engineering Student (UMAG)
+- 🖥️ Computer Engineering Student, UMAG
 - 📚 I'm learning
   
 <h1 align = "center">Contact</h2> 
