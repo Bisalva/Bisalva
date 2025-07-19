@@ -10,7 +10,7 @@
 - 🖥️ Computer Engineering Student, UMAG
 - 📚 I'm learning
   
-<h1 align = "center">Contact</h2> 
+<h1 align = "center"></h2> 
 
 <div align ="center" >
 ✉️ <a href="mailto:bisalva99@gmail.com?subject=Contacto&body=">bisalva99@gmail.com</a>
